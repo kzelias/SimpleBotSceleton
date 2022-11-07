@@ -1,3 +1,3 @@
-Inline Keyboard Button Bot.   
+Inline Keyboard Bot.   
 `pip install requirements.txt`  
 `python bot.py`
